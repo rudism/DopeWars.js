@@ -1,9 +1,8 @@
 {
-  "name": "DopeWars.js",
+  "name": "Dope Wars",
   "description": "A drug-dealing game set in streets of Montreal City",
   "launch_path": "/index.html",
   "icons": {
-    "32": "/icon-32.png",
     "128": "/icon-128.png"
   },
   "developer": {
