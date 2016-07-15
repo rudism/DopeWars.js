@@ -18,5 +18,6 @@
     "en": {
       "description": "A drug-dealing game set in streets of Montreal City"
     }
-  }
+  },
+  "orientation": ["portrait-primary"]
 }
